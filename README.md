@@ -3,7 +3,9 @@
 video 
 
 
-https://github.com/user-attachments/assets/931ec432-17ee-44f6-b6ae-55811b0ccbb
+
+https://github.com/user-attachments/assets/761009f4-94f4-4a94-b686-4f65a353f526
+
 
 
 Una aplicación web simple que:
