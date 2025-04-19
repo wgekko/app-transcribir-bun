@@ -1,5 +1,11 @@
 # 🎙️ Transcriptor de Voz en Tiempo Real (React + TypeScript + Bun)
 
+video 
+
+
+https://github.com/user-attachments/assets/931ec432-17ee-44f6-b6ae-55811b0ccbb
+
+
 Una aplicación web simple que:
 
 - Graba audio en tiempo real usando el micrófono.
@@ -23,6 +29,10 @@ Una aplicación web simple que:
 > Requisitos: Tener [Bun](https://bun.sh/) instalado.
 
 ```bash
+
+a
+
+
 bun install
 
 ## importante generar el backendo de la app 
@@ -38,10 +48,7 @@ python app.py
 # para poner en servicio el backend
 
 
-video 
 
-
-https://github.com/user-attachments/assets/931ec432-17ee-44f6-b6ae-55811b0ccbba
 
 
 
